@@ -1,0 +1,45 @@
+.top{
+position: relative;
+background-color:#FFDEDE;
+}
+
+body{
+  background-color: #E8F9FD;
+}
+.college_name{
+display: inline-block;
+position: absolute;
+margin-left: 250px;
+margin-top: 75px;
+}
+
+.pes{
+  margin: 10px;
+}
+
+.college_div{
+  display: inline-block;
+  position: relative;
+}
+.via{
+
+  max-width: 40%;
+  height: auto;
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  display: inline-block;
+  position: absolute;
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.GET{
+  display: inline-block;
+  margin-left: 200px;
+}
+.dis{
+   text-align: center;
+}
